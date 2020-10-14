@@ -10,3 +10,5 @@ leetcode个人刷题记录
 [344.反转字符串](344-reverse-string/reverse-string.go)
 
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.go)
+
+[1002.查找常用字符](1002-find-common-characters/find-common-characters.go)
