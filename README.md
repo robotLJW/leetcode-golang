@@ -5,6 +5,8 @@ leetcode个人刷题记录
 
 [75.颜色分类](75-sort-colors/sort-colors.go)
 
+[116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.go)
+
 [141.环形链表](141-linked-list-cycle/linked-list-cycle.go)
 
 [344.反转字符串](344-reverse-string/reverse-string.go)
