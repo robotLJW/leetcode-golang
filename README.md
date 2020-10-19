@@ -15,6 +15,8 @@ leetcode个人刷题记录
 
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.go)
 
+[844. 比较含退格的字符串](844-backspace-string-compare/backspace-string-compare.go)
+
 [977.有序数组的平方](977-squares-of-a-sorted-array/squares-of-a-sorted-array.go)
 
 [1002.查找常用字符](1002-find-common-characters/find-common-characters.go)
