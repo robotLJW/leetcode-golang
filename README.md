@@ -1,24 +1,24 @@
 # leetcode-golang
 leetcode个人刷题记录
 
-[19. 删除链表的倒数第N个节点](19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.go)
+[19. 删除链表的倒数第N个节点](19-remove-nth-node-from-end-of-list/remove_nth_node_from_end_of_list.go)
 
-[24.两两交换链表中的节点](24-swap-nodes-in-pairs/swap-nodes-in-pairs.go)
+[24.两两交换链表中的节点](24-swap-nodes-in-pairs/swap_nodes_in_pairs.go)
 
-[75.颜色分类](75-sort-colors/sort-colors.go)
+[75.颜色分类](75-sort-colors/sort_colors.go)
 
-[116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.go)
+[116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating_next_right_pointers_in_each_node.go)
 
-[141.环形链表](141-linked-list-cycle/linked-list-cycle.go)
+[141.环形链表](141-linked-list-cycle/linked_list_cycle.go)
 
-[143. 重排链表](143-reorder-list/reorder-list.go)
+[143. 重排链表](143-reorder-list/reorder_list.go)
 
-[344.反转字符串](344-reverse-string/reverse-string.go)
+[344.反转字符串](344-reverse-string/reverse_string.go)
 
-[530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.go)
+[530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum_absolute_difference_in_bst.go)
 
-[844. 比较含退格的字符串](844-backspace-string-compare/backspace-string-compare.go)
+[844. 比较含退格的字符串](844-backspace-string-compare/backspace_string_compare.go)
 
-[977.有序数组的平方](977-squares-of-a-sorted-array/squares-of-a-sorted-array.go)
+[977.有序数组的平方](977-squares-of-a-sorted-array/squares_of_a_sorted_array.go)
 
-[1002.查找常用字符](1002-find-common-characters/find-common-characters.go)
+[1002.查找常用字符](1002-find-common-characters/find_common_characters.go)
