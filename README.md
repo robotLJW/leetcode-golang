@@ -11,6 +11,8 @@ leetcode个人刷题记录
 
 [141.环形链表](141-linked-list-cycle/linked-list-cycle.go)
 
+[143. 重排链表](143-reorder-list/reorder-list.go)
+
 [344.反转字符串](344-reverse-string/reverse-string.go)
 
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.go)
