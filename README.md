@@ -11,7 +11,9 @@ leetcode个人刷题记录
 
 [141.环形链表](141-linked-list-cycle/linked_list_cycle.go)
 
-[143. 重排链表](143-reorder-list/reorder_list.go)
+[143.重排链表](143-reorder-list/reorder_list.go)
+
+[234.回文链表](234-palindrome-linked-list/palindrome_linked_list.go)
 
 [344.反转字符串](344-reverse-string/reverse_string.go)
 
