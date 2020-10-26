@@ -26,3 +26,5 @@ leetcode个人刷题记录
 [977.有序数组的平方](977-squares-of-a-sorted-array/squares_of_a_sorted_array.go)
 
 [1002.查找常用字符](1002-find-common-characters/find_common_characters.go)
+
+[1365.有多少小于当前数字的数字](1365-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.go)
