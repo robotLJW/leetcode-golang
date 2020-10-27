@@ -1,7 +1,7 @@
 # leetcode-golang
 leetcode个人刷题记录
 
-[19. 删除链表的倒数第N个节点](19-remove-nth-node-from-end-of-list/remove_nth_node_from_end_of_list.go)
+[19.删除链表的倒数第N个节点](19-remove-nth-node-from-end-of-list/remove_nth_node_from_end_of_list.go)
 
 [24.两两交换链表中的节点](24-swap-nodes-in-pairs/swap_nodes_in_pairs.go)
 
@@ -12,6 +12,8 @@ leetcode个人刷题记录
 [141.环形链表](141-linked-list-cycle/linked_list_cycle.go)
 
 [143.重排链表](143-reorder-list/reorder_list.go)
+
+[144.二叉树的前序遍历](144-binary-tree-preorder-traversal/binary_tree_preorder_traversal.go)
 
 [234.回文链表](234-palindrome-linked-list/palindrome_linked_list.go)
 
