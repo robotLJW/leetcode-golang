@@ -29,4 +29,6 @@ leetcode个人刷题记录
 
 [1002.查找常用字符](1002-find-common-characters/find_common_characters.go)
 
+[1207.独一无二的出现次数](1207-unique-number-of-occurrences/unique_number_of_occurrences.go)
+
 [1365.有多少小于当前数字的数字](1365-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.go)
