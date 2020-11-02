@@ -21,6 +21,8 @@ leetcode个人刷题记录
 
 [344.反转字符串](344-reverse-string/reverse_string.go)
 
+[349.两个数组的交集](349-intersection-of-two-arrays/intersection_of_two_arrays.go)
+
 [381.O(1) 时间插入、删除和获取随机元素 - 允许重复](381-insert-delete-getrandom-o1-duplicates-allowed/insert_delete_getrandom_o1_duplicates_allowed.go)
 
 [463.岛屿的周长](463-island-perimeter/island_perimeter.go)
