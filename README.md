@@ -33,6 +33,8 @@ leetcode个人刷题记录
 
 [925.长按键入](925-long-pressed-name/long_pressed_name.go)
 
+[941.有效的山脉数组](941-valid-mountain-array/valid_mountain_array.go)
+
 [977.有序数组的平方](977-squares-of-a-sorted-array/squares_of_a_sorted_array.go)
 
 [1002.查找常用字符](1002-find-common-characters/find_common_characters.go)
