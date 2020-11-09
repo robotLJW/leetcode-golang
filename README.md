@@ -39,6 +39,8 @@ leetcode个人刷题记录
 
 [941.有效的山脉数组](941-valid-mountain-array/valid_mountain_array.go)
 
+[973.最接近原点的 K 个点](973-k-closest-points-to-origin/k_closest_points_to_origin.go)
+
 [977.有序数组的平方](977-squares-of-a-sorted-array/squares_of_a_sorted_array.go)
 
 [1002.查找常用字符](1002-find-common-characters/find_common_characters.go)
