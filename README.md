@@ -6,6 +6,8 @@ leetcode个人刷题记录
 
 [24.两两交换链表中的节点](24-swap-nodes-in-pairs/swap_nodes_in_pairs.go)
 
+[33.搜索旋转排序数组](33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.go)
+
 [34.在排序数组中查找元素的第一个和最后一个位置](34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.go)
 
 [54.螺旋矩阵](54-spiral-matrix/spiral-matrix.go)
