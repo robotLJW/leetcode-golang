@@ -1,9 +1,14 @@
 # leetcode-golang
+
 leetcode个人刷题记录
 
 [19.删除链表的倒数第N个节点](19-remove-nth-node-from-end-of-list/remove_nth_node_from_end_of_list.go)
 
 [24.两两交换链表中的节点](24-swap-nodes-in-pairs/swap_nodes_in_pairs.go)
+
+[34.在排序数组中查找元素的第一个和最后一个位置](34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.go)
+
+[54.螺旋矩阵](54-spiral-matrix/spiral-matrix.go)
 
 [57.插入区间](57-insert-interval/insert_interval.go)
 
@@ -20,6 +25,8 @@ leetcode个人刷题记录
 [143.重排链表](143-reorder-list/reorder_list.go)
 
 [144.二叉树的前序遍历](144-binary-tree-preorder-traversal/binary_tree_preorder_traversal.go)
+
+[225.用队列实现栈](225-implement-stack-using-queues/implement-stack-using-queues.go)
 
 [234.回文链表](234-palindrome-linked-list/palindrome_linked_list.go)
 
