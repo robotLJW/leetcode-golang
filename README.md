@@ -32,6 +32,8 @@ leetcode个人刷题记录
 
 [234.回文链表](234-palindrome-linked-list/palindrome_linked_list.go)
 
+[283.移动零](283-move-zeroes/move-zeroes.go)
+
 [344.反转字符串](344-reverse-string/reverse_string.go)
 
 [349.两个数组的交集](349-intersection-of-two-arrays/intersection_of_two_arrays.go)
