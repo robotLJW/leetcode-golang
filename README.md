@@ -16,6 +16,8 @@ leetcode个人刷题记录
 
 [57.插入区间](57-insert-interval/insert_interval.go)
 
+[70.爬楼梯](70-climbing-stairs/climbing-stairs.go)
+
 [75.颜色分类](75-sort-colors/sort_colors.go)
 
 [116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating_next_right_pointers_in_each_node.go)
@@ -33,6 +35,8 @@ leetcode个人刷题记录
 [225.用队列实现栈](225-implement-stack-using-queues/implement-stack-using-queues.go)
 
 [234.回文链表](234-palindrome-linked-list/palindrome_linked_list.go)
+
+[235.二叉搜索树的最近公共祖先](235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.go)
 
 [283.移动零](283-move-zeroes/move-zeroes.go)
 
