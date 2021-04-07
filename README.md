@@ -22,6 +22,8 @@ leetcode个人刷题记录
 
 [116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating_next_right_pointers_in_each_node.go)
 
+[121.买卖股票的最佳时机](121-best-time-to-buy-and-sell-stock/best_time_to_buy_and_sell_stock.go)
+
 [122.买卖股票的最佳时机 II](122-best-time-to-buy-and-sell-stock-ii/best_time_to_buy_and_sell_stock_ii.go)
 
 [129.求根到叶子节点数字之和](129-sum-root-to-leaf-numbers/sum_root_to_leaf_numbers.go)
