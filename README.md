@@ -14,6 +14,8 @@ leetcode个人刷题记录
 
 [54.螺旋矩阵](54-spiral-matrix/spiral-matrix.go)
 
+[55.跳跃游戏](55-jump-game/jump_game.go)
+
 [57.插入区间](57-insert-interval/insert_interval.go)
 
 [70.爬楼梯](70-climbing-stairs/climbing-stairs.go)
