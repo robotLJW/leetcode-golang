@@ -52,6 +52,8 @@ leetcode个人刷题记录
 
 [463.岛屿的周长](463-island-perimeter/island_perimeter.go)
 
+[482.密钥格式化](482-license-key-formatting/license-key-formatting.go)
+
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum_absolute_difference_in_bst.go)
 
 [674.最长连续递增序列](674-longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.go)
