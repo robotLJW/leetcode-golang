@@ -2,7 +2,6 @@ package _002_find_common_characters
 
 import "math"
 
-
 func commonChars(a []string) (ans []string) {
 	minFreq := [26]int{}
 	for i := 0; i < len(minFreq); i++ {

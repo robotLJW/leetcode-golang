@@ -9,5 +9,5 @@ func removeDuplicates(nums []int) int {
 			nums[i-count] = nums[i]
 		}
 	}
-	return len(nums)-count
+	return len(nums) - count
 }

@@ -13,7 +13,6 @@ func sortByBits(a []int) []int {
 	return a
 }
 
-
 func countOneNumb(numb int) int {
 	var c int
 	for ; numb > 0; numb /= 2 {

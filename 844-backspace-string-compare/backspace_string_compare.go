@@ -50,11 +50,11 @@ func backspaceCompare(S string, T string) bool {
 	for !s1.isEmpty() && !s2.isEmpty() {
 		v1 := s1.pop().(byte)
 		v2 := s2.pop().(byte)
-		if v1!=v2{
+		if v1 != v2 {
 			return false
 		}
 	}
-	if s1.isEmpty()&&s2.isEmpty(){
+	if s1.isEmpty() && s2.isEmpty() {
 		return true
 	}
 	return false

@@ -1,6 +1,5 @@
 package _25_long_pressed_name
 
-
 // 计算每个单词中不重复的，并统计其个数
 func isLongPressedName(name string, typed string) bool {
 	if len(typed) < len(name) {

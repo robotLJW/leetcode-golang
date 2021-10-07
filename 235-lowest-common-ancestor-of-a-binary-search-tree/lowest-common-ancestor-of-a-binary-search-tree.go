@@ -6,7 +6,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-
 func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 	pathP := getPath(root, p)
 	pathQ := getPath(root, q)
