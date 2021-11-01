@@ -58,6 +58,8 @@ leetcode个人刷题记录
 
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum_absolute_difference_in_bst.go)
 
+[575.分糖果](575-distribute-candies/distribute-candies.go)
+
 [674.最长连续递增序列](674-longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.go)
 
 [844.比较含退格的字符串](844-backspace-string-compare/backspace_string_compare.go)
