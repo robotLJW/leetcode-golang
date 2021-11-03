@@ -81,3 +81,5 @@ leetcode个人刷题记录
 [1356.根据数字二进制下 1 的数目排序](1356-sort-integers-by-the-number-of-1-bits/sort_integers_by_the_number_of_1_bits.go)
 
 [1365.有多少小于当前数字的数字](1365-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.go)
+
+[offer09.用两个栈实现队列](offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.go)
