@@ -78,6 +78,7 @@ leetcode个人刷题记录
 
 [1207.独一无二的出现次数](1207-unique-number-of-occurrences/unique_number_of_occurrences.go)
 
+[1218.最长定差子序列](1218-longest-arithmetic-subsequence-of-given-difference/longest-arithmetic-subsequence-of-given-difference.go)
 [1356.根据数字二进制下 1 的数目排序](1356-sort-integers-by-the-number-of-1-bits/sort_integers_by_the_number_of_1_bits.go)
 
 [1365.有多少小于当前数字的数字](1365-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.go)
