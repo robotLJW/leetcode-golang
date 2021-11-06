@@ -42,6 +42,8 @@ leetcode个人刷题记录
 
 [235.二叉搜索树的最近公共祖先](235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.go)
 
+[268.丢失的数字](268-missing-number/missing-number.go)
+
 [283.移动零](283-move-zeroes/move-zeroes.go)
 
 [344.反转字符串](344-reverse-string/reverse_string.go)
