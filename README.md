@@ -62,6 +62,8 @@ leetcode个人刷题记录
 
 [482.密钥格式化](482-license-key-formatting/license-key-formatting.go)
 
+[495.提莫攻击](495-teemo-attacking/teemo-attacking.go)
+
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum_absolute_difference_in_bst.go)
 
 [575.分糖果](575-distribute-candies/distribute-candies.go)
