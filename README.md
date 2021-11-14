@@ -72,6 +72,8 @@ leetcode个人刷题记录
 
 [598.范围求和 II](598-range-addition-ii/range-addition-ii.go)
 
+[677.键值映射](677-map-sum-pairs/map-sum-pairs.go)
+
 [674.最长连续递增序列](674-longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.go)
 
 [844.比较含退格的字符串](844-backspace-string-compare/backspace_string_compare.go)
