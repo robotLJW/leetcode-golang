@@ -96,3 +96,5 @@ leetcode个人刷题记录
 [1365.有多少小于当前数字的数字](1365-how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.go)
 
 [offer09.用两个栈实现队列](offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.go)
+
+[offer30.包含min函数的栈](offer-30-bao-han-minhan-shu-de-zhan-lcof/bao-han-minhan-shu-de-zhan-lcof.go)
