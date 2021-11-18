@@ -56,6 +56,8 @@ leetcode个人刷题记录
 
 [381.O(1) 时间插入、删除和获取随机元素 - 允许重复](381-insert-delete-getrandom-o1-duplicates-allowed/insert_delete_getrandom_o1_duplicates_allowed.go)
 
+[397.整数替换](397.integer-replacement/integer-replacement.go)
+
 [434-number-of-segments-in-a-string](434-number-of-segments-in-a-string/number-of-segments-in-a-string.go)
 
 [463.岛屿的周长](463-island-perimeter/island_perimeter.go)
