@@ -74,6 +74,8 @@ leetcode个人刷题记录
 
 [575.分糖果](575-distribute-candies/distribute-candies.go)
 
+[594.最长和谐子序列](594-longest-harmonious-subsequence/longest-harmonious-subsequence.go)
+
 [598.范围求和 II](598-range-addition-ii/range-addition-ii.go)
 
 [677.键值映射](677-map-sum-pairs/map-sum-pairs.go)
