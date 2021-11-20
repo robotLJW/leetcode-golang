@@ -105,4 +105,6 @@ leetcode个人刷题记录
 
 [offer30.包含min函数的栈](offer-30-bao-han-minhan-shu-de-zhan-lcof/bao-han-minhan-shu-de-zhan-lcof.go)
 
-[offer32- I. 从上到下打印二叉树](offer-32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.go)
+[offer32-I.从上到下打印二叉树](offer-32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.go)
+
+[offer32-II.从上到下打印二叉树II](offer-32-II-cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.go)
