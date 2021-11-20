@@ -104,3 +104,5 @@ leetcode个人刷题记录
 [offer09.用两个栈实现队列](offer-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.go)
 
 [offer30.包含min函数的栈](offer-30-bao-han-minhan-shu-de-zhan-lcof/bao-han-minhan-shu-de-zhan-lcof.go)
+
+[offer32- I. 从上到下打印二叉树](offer-32-cong-shang-dao-xia-da-yin-er-cha-shu-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-lcof.go)
