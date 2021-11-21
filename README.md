@@ -70,6 +70,8 @@ leetcode个人刷题记录
 
 [530.二叉搜索树的最小绝对差](530-minimum-absolute-difference-in-bst/minimum_absolute_difference_in_bst.go)
 
+[559.N 叉树的最大深度](559-maximum-depth-of-n-ary-tree/maximum-depth-of-n-ary-tree.go)
+
 [563. 二叉树的坡度](563.binary-tree-tilt/binary-tree-tilt.go)
 
 [575.分糖果](575-distribute-candies/distribute-candies.go)
