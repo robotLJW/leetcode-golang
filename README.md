@@ -22,8 +22,6 @@ leetcode个人刷题记录
 
 [75.颜色分类](75-sort-colors/sort_colors.go)
 
-[859.亲密字符串](859-buddy-strings/buddy-strings.go)
-
 [116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating_next_right_pointers_in_each_node.go)
 
 [121.买卖股票的最佳时机](121-best-time-to-buy-and-sell-stock/best_time_to_buy_and_sell_stock.go)
@@ -60,6 +58,8 @@ leetcode个人刷题记录
 
 [397.整数替换](397.integer-replacement/integer-replacement.go)
 
+[423.从英文中重建数字](423-reconstruct-original-digits-from-english/reconstruct-original-digits-from-english.go)
+
 [434-number-of-segments-in-a-string](434-number-of-segments-in-a-string/number-of-segments-in-a-string.go)
 
 [463.岛屿的周长](463-island-perimeter/island_perimeter.go)
@@ -87,6 +87,8 @@ leetcode个人刷题记录
 [674.最长连续递增序列](674-longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.go)
 
 [844.比较含退格的字符串](844-backspace-string-compare/backspace_string_compare.go)
+
+[859.亲密字符串](859-buddy-strings/buddy-strings.go)
 
 [925.长按键入](925-long-pressed-name/long_pressed_name.go)
 
