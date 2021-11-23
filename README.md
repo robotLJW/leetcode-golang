@@ -22,6 +22,8 @@ leetcode个人刷题记录
 
 [75.颜色分类](75-sort-colors/sort_colors.go)
 
+[859.亲密字符串](859-buddy-strings/buddy-strings.go)
+
 [116.填充每个节点的下一个右侧节点指针](116-populating-next-right-pointers-in-each-node/populating_next_right_pointers_in_each_node.go)
 
 [121.买卖股票的最佳时机](121-best-time-to-buy-and-sell-stock/best_time_to_buy_and_sell_stock.go)
