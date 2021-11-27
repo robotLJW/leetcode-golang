@@ -60,7 +60,9 @@ leetcode个人刷题记录
 
 [423.从英文中重建数字](423-reconstruct-original-digits-from-english/reconstruct-original-digits-from-english.go)
 
-[434-number-of-segments-in-a-string](434-number-of-segments-in-a-string/number-of-segments-in-a-string.go)
+[434.字符串中的单词数](434-number-of-segments-in-a-string/number-of-segments-in-a-string.go)
+
+[438.找到字符串中所有字母异位词](438-find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.go)
 
 [463.岛屿的周长](463-island-perimeter/island_perimeter.go)
 
