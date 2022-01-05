@@ -36,6 +36,8 @@ leetcode个人刷题记录
 
 [144.二叉树的前序遍历](144-binary-tree-preorder-traversal/binary_tree_preorder_traversal.go)
 
+[206.反转链表](206-reverse-linked-list/reverse-linked-list.go)
+
 [225.用队列实现栈](225-implement-stack-using-queues/implement-stack-using-queues.go)
 
 [234.回文链表](234-palindrome-linked-list/palindrome_linked_list.go)
